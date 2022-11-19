@@ -41,6 +41,7 @@ namespace Wpf_Chemeris_8_ISRPO
                 Y.Text += "y=" + Convert.ToString(y) + Environment.NewLine;
 
                 x = x + dx;
+
             }
         }
     }
